@@ -1,1 +1,1 @@
-27 april 2024 - started learning docker
+27 april 2024 - started learning docker, very important tool for developers and software management
